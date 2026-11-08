@@ -15,7 +15,6 @@ public class MyQueue
     The letter 'o' occurs 2 times.
     The letter 'v' occurs 1 time. The index of 'v' is 2. The method should return 2.
     */
-    
     public static int FirstUniqueChar(string s)
     {
         if (string.IsNullOrEmpty(s))
